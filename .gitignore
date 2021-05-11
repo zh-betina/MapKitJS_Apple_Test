@@ -1,0 +1,4 @@
+node_modules
+
+AuthKey.p8
+.env
